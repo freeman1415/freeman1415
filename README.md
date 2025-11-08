@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there i'm Potapov Timur👋
+
+### About me:
+- 🎓 Educating at [NEFU](https://www.s-vfu.ru/) and [21-school](https://21-school.ru/)
+- 📫 How to reach me: potapovtimur8@gmail.com
+
+### Languages and tools
+
 
 <!--
 **freeman1415/freeman1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
