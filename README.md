@@ -1,11 +1,11 @@
 ## Hi there i'm Potapov Timur👋
 
-### About me:
+## About me:
 - 🎓 Educating at [NEFU](https://www.s-vfu.ru/) and [21-school](https://21-school.ru/)
-### 📞 Connect me:
+## 📞 Connect me:
 [![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)](https://t.me/timirki)
 [![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:potapovtimur8@gmail.com)
-### Languages and tools
+## 🛠️ Languages and tools
 
 [![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 [![C](https://img.icons8.com/color/48/000000/c-programming.png)](https://en.wikipedia.org/wiki/C_(programming_language))
