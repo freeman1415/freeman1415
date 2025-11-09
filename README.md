@@ -1,7 +1,9 @@
 ## Hi there i'm Potapov Timur👋
 
-## About me:
+### About me:
 - 🎓 Educating at [NEFU](https://www.s-vfu.ru/) and [21-school](https://21-school.ru/)
+- I love learning new skills and applying them
+- I can improve myself every year, by the way
 ## 📞 Connect me:
 [![Telegram](https://img.icons8.com/ios-filled/50/000000/telegram-app.png)](https://t.me/timirki)
 [![Gmail](https://img.icons8.com/ios-filled/50/000000/gmail.png)](mailto:potapovtimur8@gmail.com)
