@@ -19,6 +19,7 @@
 [![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/)
 [![GitLab](https://img.icons8.com/color/48/000000/gitlab.png)](https://gitlab.com/)
 
+[![Shell](https://img.icons8.com/plasticine/48/000000/bash.png)](https://www.gnu.org/software/bash/)
 <!--
 **freeman1415/freeman1415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
