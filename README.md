@@ -1,4 +1,4 @@
-## Hi there i'm Potapov Timur👋
+## Welcome to my basement my baddies, i'm T1m1rk1
 
 ### About me:
 - 🎓 Educating at [NEFU](https://www.s-vfu.ru/) and [21-school](https://21-school.ru/)
