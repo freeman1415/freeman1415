@@ -3,7 +3,8 @@
 ### About me:
 - 🎓 Educating at [NEFU](https://www.s-vfu.ru/) and [21-school](https://21-school.ru/)
 - 📫 How to reach me: potapovtimur8@gmail.com
-
+### Connect with me
+-[![Telegram](https://cdn.simpleicons.org/javascript?viewbox=auto&size=20)](https://t.me/timirki)
 ### Languages and tools
 
 
